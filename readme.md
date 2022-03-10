@@ -1,4 +1,4 @@
-# Submission Android Fundamental 1
+# Submission Android Fundamental 2
 ## BANGKIT 2022
 
 ### Requirements :
